@@ -6,4 +6,3 @@ race_choice = int(input("Enter your choice: "))
 races = ["Elf", "Goblin", "Dwarf", "Human"]
 race = races[race_choice]
 print("You chose " + race)
-
